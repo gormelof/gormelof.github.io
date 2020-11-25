@@ -24,7 +24,7 @@ author:
 url: "https://grml.dev" #
 baseurl:
 permalink: /:title/
-google_analytics: # leave it blank if not wish
+google_analytics: "G-MDH2VWR5GS"
 fb_appid:
 
 # Collection setting
